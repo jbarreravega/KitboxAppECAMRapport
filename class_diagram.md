@@ -64,7 +64,7 @@ enregistrées comme étant une liste de pièces qui n'ont pas de liens entre
 elles. Il est important que le logiciel vérifie bien la validité d'un
 meuble lorsqu'il le transforme en commande afin qu'il n'y ait pas
 d'erreur. Les commandes sont sauvegardées afin d'en garder un suivi et
-surtout de pouvoir prédire les stocks nécessaires. Les commandes 
+surtout de pouvoir prédire les stocks nécessaires.
 
 La classe OrderWizard s'occupe de faire la liaison entre la liste des
 meubles (Furniture) que le client a composé et la création de sa
